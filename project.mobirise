@@ -18,7 +18,7 @@
     "cookiesAlert": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 2,
+    "uniqCompNum": 5,
     "versionPublish": "4.8.10"
   },
   "pages": {
@@ -149,6 +149,100 @@
               "font-size": "15px"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#b8312f",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONFIRME SUA PRESENÇA",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-success mbr-iconfont mbr-iconfont-btn\"></span>CONFIRMAR</a>",
+          "form": {
+            "action": "robertofreitas.jr@gmail.com",
+            "alerts": {
+              "success": "Confirmado! Aguardamos vocês lá!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome Completo"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Celular/WhatsApp"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Nomes dos Acompanhantes"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-2",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-3"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-4"
         }
       ]
     }

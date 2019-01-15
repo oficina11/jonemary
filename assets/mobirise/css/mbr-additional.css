@@ -8,6 +8,7 @@
 
 
 
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -44,4 +45,8 @@
 #header1-1 SPAN {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 15px;
+}
+#form1-2 .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
