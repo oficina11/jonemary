@@ -19,6 +19,7 @@
 
 
 
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -46,7 +47,7 @@
 }
 #header1-1 I {
   font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-size: 46px;
+  font-size: 32px;
 }
 #header1-1 .btn {
   font-family: 'Open Sans Condensed', sans-serif;
@@ -114,6 +115,10 @@
   text-align: center;
   font-family: 'PT Sans', sans-serif;
   font-size: 16px;
+}
+#content5-9 .btn {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 12px;
 }
 #header3-b H3 {
   text-align: center;

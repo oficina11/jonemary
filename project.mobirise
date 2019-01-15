@@ -65,7 +65,7 @@
             "color": "#000000",
             "hamburgerColor": "#ffffff"
           },
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-5\"><span class=\"mobi-mbri mobi-mbri-unlock mbr-iconfont mbr-iconfont-btn\"></span>Despedida de Solteiros</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box3-8\"><span class=\"mobi-mbri mobi-mbri-gift mbr-iconfont mbr-iconfont-btn\"></span>Lista de Presentes</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-9\"><span class=\"mobi-mbri mobi-mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Vaquinha da Lua de Mel</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"><span class=\"mobi-mbri mobi-mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>Galeria de Fotos</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-5\"><span class=\"mobi-mbri mobi-mbri-unlock mbr-iconfont mbr-iconfont-btn\"></span>Despedida de Solteiros</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box3-8\"><span class=\"mobi-mbri mobi-mbri-gift mbr-iconfont mbr-iconfont-btn\"></span>Lista de Presentes</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-9\"><span class=\"mobi-mbri mobi-mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>Vaquinha da Lua de Mel</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#bottom\"><span class=\"mobi-mbri mobi-mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>Galeria de Fotos</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -115,7 +115,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.6"
           },
-          "title": "<i>Você e sua família estão convidados</i><i><br></i><i>para o nosso casamento,</i>",
+          "title": "<i>Você e sua família estão convidados&nbsp;</i><i>para o nosso casamento,</i>",
           "text": "<b>que se realizará em</b><br><b>11 de maio de 2019.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"index.html#form1-2\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-success mbr-iconfont mbr-iconfont-btn\"></span>CONFIRME SUA PRESENÇA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"index.html#map1-3\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span>LOCAL DA CERIMÔNIA</a>",
           "_tags": [
@@ -136,7 +136,7 @@
             "I": {
               "font-family": "'Yanone Kaffeesatz', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
-              "font-size": "46px"
+              "font-size": "32px"
             },
             ".btn": {
               "font-family": "'Open Sans Condensed', sans-serif",
@@ -153,8 +153,8 @@
         {
           "_params": {
             "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -253,8 +253,8 @@
             "showCaption": "noCaption",
             "showText": false,
             "showButton": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
             "parallax": true,
@@ -356,6 +356,11 @@
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
               "font-size": "16px"
+            },
+            ".btn": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "12px"
             }
           },
           "_params": {
@@ -363,11 +368,11 @@
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "showButton": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1329.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -382,7 +387,7 @@
           },
           "title": "COLABORE COM A LUA DE MEL!",
           "text": "<p>Compre um pedaço da gravata do noivo clicando no botão abaixo.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">COMPRAR</a>",
           "_tags": [
             "Theme"
           ],
