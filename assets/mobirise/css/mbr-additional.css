@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 
 
@@ -40,10 +41,10 @@
 #header1-1 P {
   font-family: 'PT Sans', sans-serif;
   font-size: 22px;
-  text-align: right;
+  text-align: center;
 }
 #header1-1 H1 {
-  text-align: right;
+  text-align: center;
 }
 #header1-1 I {
   font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -54,8 +55,8 @@
   font-size: 12px;
 }
 #header1-1 SPAN {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 32px;
 }
 #form1-2 .mbr-header__text {
   color: #ffffff;
